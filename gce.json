@@ -12,7 +12,7 @@
     "inline": [
       "sleep 30",
       "sudo yum install httpd -y",
-	"sleep 30",
+	"sleep 10",
 	"sudo chkconfig --add httpd",
 	"sudo chkconfig --level 345 httpd on"
     ]
