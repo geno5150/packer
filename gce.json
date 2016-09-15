@@ -1,6 +1,6 @@
 {"builders":[{
   "type": "googlecompute",
-  "account_file": "account.json",
+  "account_file": "/tmp/build/account.json",
   "project_id": "learned-raceway-143320",
   "source_image": "packer-image",
   "zone": "us-central1-b",
