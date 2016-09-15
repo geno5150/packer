@@ -1,0 +1,20 @@
+{"builders":[{
+  "type": "googlecompute",
+  "account_file": "account.json",
+  "project_id": "learned-raceway-143320",
+  "source_image": "packer-image",
+  "zone": "us-central1-b",
+  "image_name": "packer-img"
+
+}],
+"provisioners": [{
+    "type": "shell",
+    "inline": [
+      "sleep 30",
+      "sudo yum install httpd -y",
+	"sleep 30",
+	"sudo chkconfig --add httpd",
+	"sudo chkconfig --level 345 httpd on"
+    ]
+  }]
+}
