@@ -1,10 +1,14 @@
-{"builders":[{
+{
+"variables": {
+    "gce_img_name": ""
+  },
+"builders":[{
   "type": "googlecompute",
-  "account_file": "/tmp/build/account.json",
+  "account_file": "account.json",
   "project_id": "learned-raceway-143320",
   "source_image": "packer-image",
   "zone": "us-central1-b",
-  "image_name": "packer-img"
+  "image_name": "{{gce_img_name}}"
 
 }],
 "provisioners": [{
@@ -12,7 +16,7 @@
     "inline": [
       "sleep 30",
       "sudo yum install httpd -y",
-	"sleep 10",
+	"sleep 30",
 	"sudo chkconfig --add httpd",
 	"sudo chkconfig --level 345 httpd on"
     ]
