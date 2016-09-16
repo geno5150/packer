@@ -1,5 +1,4 @@
 {
-
 "variables": {
     "gce_img_name": ""
   },
@@ -9,7 +8,7 @@
   "project_id": "learned-raceway-143320",
   "source_image": "packer-image",
   "zone": "us-central1-b",
-  "image_name": "{{user 'gce_img_name'}}"
+  "image_name": "{{user `gce_img_name`}}"
 
 }],
 "provisioners": [{
