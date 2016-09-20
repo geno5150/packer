@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "learned-raceway-143320",
+  "private_key_id": "973d505ac94e6e21bb7d04e39462015e0934da02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCmrInTOn71GPHA\nhYOKfCt2EMm4XO9VigLM+lj+3sIrzCWARIEQ4k3L5MWp6A1WQGu9hontVqX5RC6S\nw4J0o+ibbfcb3XIrkUg7QGRQc7c3uvASKTI1bF507FEkgDau0Ux2xi0GqgFBeZnn\n7VOCD83b4Be58mQPzAYfA5i9aPdDPTMZVsAyNetcwrc2mUNWu0Vgu3xD+WeDhDtK\nipHZHPX2yMm2E6fM8UqlfYUk8K8cQIcwFsBComFBqxqJP2jcQgaP1fLIFYLpn+m/\nJkztd1v721vgZOWAA8SRkAfSHs9WejnyzQA9G6d6plrglTqXQBOL3zYb0yZUDnN8\nsiaBoUGJAgMBAAECggEARDqlQP7VMehALpt5OZuS/wXoTbxdjRquAtMI02zE98De\nKR/h5dN+HVVNRTxlGUXN1QvaMnoh/2RV3GaEZNMkSVw+p/2C2yrh8r9tUTHNctbn\np8eNcikmkZ6bqOGDgRTUxFpj3DKDyRXKVxLj+H4Xu0aE7+214HGYn+GNCRyK+87M\ng/tBinRVO+gF3OMnCehD28YRbF6hbUV1TTYg5AKWj8jw1QBSb4ihRb/s78FdM9IP\ntj1/OiSaEAPBSQywfogKn+hYhNQJ/mbfX0b1arZjxUtwS3O49E9IqWnqp0bKJ3uC\nVMo/UPT2hlLT3uRPuq6Af695Lu+sk4tY+1k6+y32MQKBgQDVOKG5IB4yvufCJpFR\nyEp//SCAFLLg/qohq1iFkNVbRTSWFJ62SZUIoqphdBzqawxDwVjGd9aunXYfka7A\nHHDh1W5M+442ZgRfbCaBl3X4iFRuZDC3AYlLyRj3BW53djAceDHDihBB72erJ9p3\nnpzTCkGz4VgVhBjVwdSVV/KsSwKBgQDIHStMj2wKJLuahFKQmMp9XRkpH+SRBDHT\nhJja/FQF2Yvzhro5xMC/1O8hQD6h8nEviyqhDXDG8QYibRtjmCd4jESuQuKv2Evn\nF70Rb8V6PcEez2mJwYoJF/wfVKIhdqjo6tFl5DQgxSJrnI8b/bsnVP7yMYp9mgb6\nYPTKLvp8+wKBgQDGFGVRSQAk3msJV7D6y9pCCpKtygzfrlW5D6gd9Q3wS1tt7VwA\nNl1od01XWXofYDE1pKHnRp8++nMpIrq4J/PKKO/ePnfAG4gGab9f9qgWqffd0d/b\ns2ar6/bwTLBx9G7/k72PTWyLBHBHda+kHsrL16RwCnE9E8nKktX9o4WC/wKBgQCV\nTr45t2EDCHk5RrVb0cRzWP0m4/bkBF8w1GRAL7h5TOHQ55sW8yhlePiatJaGup+c\nu5co5yBYLwlGsmWXH7WDihTMeHcugJHRcLLOybhsBpuK43J5KABX3J9uuPTnRuOs\nNVfbUDNcp/mQlRVp6xyysgYuqqwMHtpKAgFiwT5/9QKBgQCZPwWFNTLwNvoK/5la\nX6h45VjBE1YZBfFOv4qRAiBJQwNYb3JoCnc+GKrn9nYWSDWLAjqis6sX+nkszoa5\nc4ij4bCNJQWalSKKiDs1MSZjo0/2aE/4lqUpYCKk4Hu2+bKC5ngSPy0F/kZYL3Sc\ni2BEHtokr9miV5IgSNDOWBSWWA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "packer@learned-raceway-143320.iam.gserviceaccount.com",
+  "client_id": "117047134926737359630",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/packer%40learned-raceway-143320.iam.gserviceaccount.com"
+}
+
