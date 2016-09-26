@@ -16,7 +16,7 @@
 "provisioners": [{
     "type": "shell",
     "inline": [
-      "sleep 30",
+      "sleep 29",
       "sudo apt-get update",
       "sudo apt-get install -y redis-server"
     ]
